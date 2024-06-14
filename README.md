@@ -6,7 +6,7 @@ Este projeto utiliza datasets fornecidos pelo Seaborn para praticar técnicas de
 Abra o Jupyter Notebook através do Google Colab ou IDE de sua escolha.
 Execute as células para visualizar as análises e gráficos.
 
-![image](https://github.com/VariableBee/seaborn-data-visualization/assets/77739311/a9376542-cc87-4377-af97-3e66b4ab6585)
+![image](https://github.com/VariableBee/Seaborn-Data-Visualization/assets/77739311/1cd63e0d-50bc-4997-ad51-e82708537b7c)
 
 Licença
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
